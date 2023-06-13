@@ -1,0 +1,19 @@
+.app {
+    background-color: rgb(48, 41, 41);
+    height: 100vh;
+}
+
+.gameBoard{
+    background-color: white;
+}
+
+.gameHeader {
+    padding: 30px;
+    margin-bottom: 10px;
+    text-align: center;
+    
+    color: white;
+    font-size: 60px;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
