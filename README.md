@@ -6,7 +6,7 @@ Minesweeper rules are very simple. The board is divided into cells, with mines r
 
 
 ## Installation:
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project was bootstrapped with [Create React App](https://create-react-app.dev/).
 
 Run the following commands:
 ### `cd client`
